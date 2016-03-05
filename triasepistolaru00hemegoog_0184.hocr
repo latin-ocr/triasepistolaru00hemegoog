@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./triasepistolaru00hemegoog_0184.png"; bbox 0 0 2719 4895; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 729 2074 1868 2361">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 729 2074 1868 2361">
+     <span class='ocr_line' id='line_1_1' title="bbox 841 2074 1868 2179; baseline 0.016 -31"><span class='ocrx_word' id='word_1_1' title='bbox 841 2074 953 2149; x_wconf 91' lang='grc' dir='ltr'>Ῥ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1007 2094 1116 2173; x_wconf 83' lang='lat'>13·</span> <span class='ocrx_word' id='word_1_3' title='bbox 1159 2076 1335 2151; x_wconf 75' lang='lat' dir='ltr'><strong>aluid</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1383 2076 1535 2179; x_wconf 86' lang='lat' dir='ltr'>lege</span> <span class='ocrx_word' id='word_1_5' title='bbox 1581 2082 1786 2163; x_wconf 71' lang='lat' dir='ltr'>aliud-⁸</span> <span class='ocrx_word' id='word_1_6' title='bbox 1862 2096 1868 2103; x_wconf 81' lang='grc'><em>“</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 729 2208 1845 2361; baseline 0.03 -51"><span class='ocrx_word' id='word_1_7' title='bbox 729 2227 768 2311; x_wconf 73' lang='grc'>’.</span> <span class='ocrx_word' id='word_1_8' title='bbox 878 2254 958 2331; x_wconf 78' lang='grc' dir='ltr'>Ρ,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1009 2279 1125 2354; x_wconf 82' lang='lat'>23.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1173 2260 1339 2351; x_wconf 61' lang='grc' dir='ltr'>κρῖνε</span> <span class='ocrx_word' id='word_1_11' title='bbox 1390 2208 1796 2361; x_wconf 41' lang='grc' dir='ltr'>Ιεὲεᾷςῖῇ.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1840 2218 1845 2225; x_wconf 91' lang='lat'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1165 2440 1861 2547">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1165 2440 1861 2547">
+     <span class='ocr_line' id='line_1_3' title="bbox 1165 2440 1861 2547; baseline 0.01 -35"><span class='ocrx_word' id='word_1_13' title='bbox 1165 2440 1372 2534; x_wconf 59' lang='lat' dir='ltr'>afluat</span> <span class='ocrx_word' id='word_1_14' title='bbox 1420 2442 1569 2547; x_wconf 51' lang='lat' dir='ltr'>[ege</span> <span class='ocrx_word' id='word_1_15' title='bbox 1619 2449 1861 2538; x_wconf 62' lang='lat' dir='ltr'>affrae.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
